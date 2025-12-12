@@ -12,7 +12,7 @@ const Sidebar = () => {
   const pathname = usePathname();
   const pathWithoutLocale = removeLocaleFromPath(pathname);
 
-  const hotkeysOn = usePreferencesStore((state) => state.hotkeysOn);
+  const hotkeysOn = usePreferencesStore(state => state.hotkeysOn);
 
   const { playClick } = useClick();
 
@@ -158,7 +158,7 @@ const Sidebar = () => {
         <span className="max-lg:hidden">Preferences</span>
       </Link>
 
-      <div className="max-lg:hidden w-full mt-3 px-4 text-xs   text-[var(--secondary-color)] opacity-70">
+      <div className="max-lg:hidden w-full mt-3 px-4 text-xs uppercase  text-[var(--secondary-color)] opacity-70">
         Experiments
       </div>
       <Link
