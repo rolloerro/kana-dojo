@@ -58,9 +58,9 @@ function EmptyState() {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.2 }}
-        className='mb-6 opacity-20'
+        className='mb-6'
       >
-        <ChartColumn className='h-32 w-32' />
+        <ChartColumn className='h-32 w-32 opacity-20' />
       </motion.div>
       <motion.h2
         initial={{ opacity: 0, y: 10 }}

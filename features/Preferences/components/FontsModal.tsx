@@ -104,7 +104,7 @@ export default function FontsModal({ open, onOpenChange }: FontsModalProps) {
             {/* Recommended Fonts Section */}
             <div className='mb-6'>
               <div className='mb-3 flex items-center gap-2'>
-                <BookOpen size={18} className='text-[var(--success-color)]' />
+                <BookOpen size={18} className='text-[var(--secondary-color)]' />
                 <h3 className='text-lg font-semibold text-[var(--main-color)]'>
                   Recommended for Learning
                 </h3>
