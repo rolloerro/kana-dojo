@@ -258,6 +258,13 @@ const baseThemeSets: BaseThemeGroup[] = [
         id: 'school-uniform',
         backgroundColor: 'oklch(92.0% 0.015 250.0 / 1)',
         mainColor: 'oklch(40.0% 0.145 255.0 / 1)',
+        secondaryColor: 'oklch(60.0% 0.175 20.0 / 1)',
+      },
+      {
+        id: 'street-lantern',
+        backgroundColor: 'oklch(19.0% 0.038 40.0 / 1)',
+        mainColor: 'oklch(85.0% 0.135 55.0 / 1)',
+        secondaryColor: 'oklch(68.0% 0.165 30.0 / 1)',
         secondaryColor: 'oklch(60.0% 0.175 20.0 / 1)'},{
         id: 'sunrise-express',
         backgroundColor: 'oklch(21.0% 0.048 50.0 / 1)',
