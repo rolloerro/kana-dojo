@@ -261,6 +261,12 @@ const baseThemeSets: BaseThemeGroup[] = [
     icon: Moon,
     themes: [
       {
+        id: 'natto-brown',
+        backgroundColor: 'oklch(22.0% 0.032 60.0 / 1)',
+        mainColor: 'oklch(58.0% 0.095 65.0 / 1)',
+        secondaryColor: 'oklch(70.0% 0.075 55.0 / 1)'
+      },
+      {
         id: 'shaved-ice',
         backgroundColor: 'oklch(95.0% 0.025 215.0 / 1)',
         mainColor: 'oklch(60.0% 0.195 25.0 / 1)',
