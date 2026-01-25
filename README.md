@@ -21,7 +21,13 @@
 
 ## Contributing
 
-Contributions are welcome! Whether you're fixing bugs, adding features, improving documentation, or translating — check out [CONTRIBUTING.md](./CONTRIBUTING.md) to get started. If you're brand new to coding or GitHub, read the [Beginner's Contribution Guide](./docs/CONTRIBUTING-BEGINNERS.md) for a step-by-step walkthrough.
+### For Complete Beginners
+
+Start with the [Beginner's Contribution Guide](./docs/CONTRIBUTING-BEGINNERS.md) for a step-by-step walkthrough that explains everything from creating a GitHub account to opening your first PR.
+
+### Already comfortable with Git?
+
+Contributions are welcome! Whether you're fixing bugs, adding features, improving documentation, or translating — check out [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
 
 [Live Demo](https://kanadojo.com) · [Documentation](./docs/) · [Contributing](./CONTRIBUTING.md)
 
